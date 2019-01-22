@@ -7,27 +7,37 @@ Weight: 10
 :imagesdir: ./../../../images/en/community
 
 == Your first simple edit
+// La tua prima semplice modifica
 
 In order to contribute to the Documentation efforts, you can edit pages directly on GitHub 
 which is the repository of our content.
+//Per poter contribuire alle attività di documentazione, potreai modificare direttamente su GitHub che è il depositario dei nostri contenuti
 
 {{% notice info %}}
 You need a https://github.com/join[Github user account^] to edit pages on the SuiteCRM Documentation Site. 
 If you don't have one yet, you will be given the opportunity to create one during this process.
 {{% /notice %}}
+//Hai bisogno di un https://github.com/join[Github user account^] per modificare le pagine sul sito the SuiteCRM.
+//Se non ne hai ancora uno, ti sarà data la possibilité di crearne uno durante questo processo.
+//{{% /notice %}}
 
 === 1. Navigate to the place you want to edit
+// Naviga nel posto che vuoi modificare
 
 Simply use your browser to go to the page you want to edit. You can use the menus 
 and search feature to facilitate this.
+//Basta utilizzare il browser per andare alla pagina che vuoi modificare. Puoi anche utilizzare il menu e il form di ricerca per facilitarti.
 
 === 2. Click to "Edit this page"
+// Clicca su "modifica questa pagina"
 
 Every page on the site has an "Edit this Page" link near the top.
+// Ogni pagina sul sito ha un collegamento all'inizio della pagina "modifica questa pagina" 
 
 image:24EditThisPage.png[title="Edit this page link"]
 
 === 3. Make your changes
+// Fai i tuoi cambiamenti
 
 You are taken to GitHub where a text editor will allow you to edit the source code of the file. 
 The format used is called https://asciidoctor.org/docs/what-is-asciidoc/[Asciidoc^], 
